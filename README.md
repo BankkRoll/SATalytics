@@ -4,6 +4,8 @@
 
 This project uses Next.js and Tailwind CSS to display collection and volume information.
 
+![screencapture-localhost-3000-2023-05-31-18_28_29](https://github.com/BankkRoll/SATalytics/assets/106103625/a7f945e0-a8b6-4007-9315-154ceeb2683d)
+
 ## Getting Started
 
 Clone the repository:
