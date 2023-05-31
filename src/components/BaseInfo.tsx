@@ -85,7 +85,7 @@ const BaseInfo: React.FC<BaseInfoProps> = ({ baseInfo }) => {
 
   const startIndex = (currentPage - 1) * itemsPerPage;
   const endIndex = startIndex + itemsPerPage;
-  const currentItems = searchResults.slice(startIndex, endIndex);
+  const currentItems = sortedBaseInfo.slice(startIndex, endIndex);
 
   return (
     <div className="animate__animated animate__fadeIn mt-6">
