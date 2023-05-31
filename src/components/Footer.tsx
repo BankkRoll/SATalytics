@@ -5,17 +5,16 @@ const Footer = () => {
       <div className="container mx-auto px-6">
         <div className="flex justify-between items-center">
           <div className="text-center text-white">
-            <h6 className="mb-3">© {new Date().getFullYear()} My App</h6>
+            <h6 className="mb-3">© {new Date().getFullYear()} SATalytics</h6>
             <p>All rights reserved.</p>
           </div>
 
           <div className="flex items-center space-x-4">
-            {/* Add social media links or other relevant links here */}
-            <a href="https://twitter.com" className="text-white">
-              Twitter
+            <a href="https://twitter.com/bankkroll_eth" className="text-white">
+              Developer Twitter
             </a>
-            <a href="https://github.com" className="text-white">
-              GitHub
+            <a href="https://github.com/BankkRoll/SATalytics" className="text-white">
+              Project GitHub
             </a>
           </div>
         </div>
