@@ -38,7 +38,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 ## Learn More
 
-- [bestinslot.xyz API](https://docs.bestinslot.xyz/) - learn about Next.js features and API.
+- [bestinslot.xyz API](https://docs.bestinslot.xyz/) - learn about API.
 
 ## Contributing
 
